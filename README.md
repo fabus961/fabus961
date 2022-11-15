@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabus961
-- 👀 I’m fascinated by nowadays seemless integration possibilities
+- 👀 I’m fascinated by nowadays seamless integration possibilities
 - 🌱 I’m currently learning ethererum blockchain development 
 - 💞️ I’m looking to collaborate on decentralized applications
 - 📫 You can reach me out via instagram @fabus961 or visit my website at https://fabianloewe.de
